@@ -84,7 +84,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bd7e48e-4cbb-41e2-9921-ea36bb1bab62" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cea2b07-5e89-4a6d-8dc4-e551ccd9a0b6" />
+
 
 ### SERVER OUTPUT:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64fa6ee7-539f-4ee5-87e2-65aa88c4248d" />
