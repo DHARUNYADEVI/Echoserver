@@ -84,11 +84,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cea2b07-5e89-4a6d-8dc4-e551ccd9a0b6" />
+<img width="692" height="903" alt="image" src="https://github.com/user-attachments/assets/e0c119d3-bff2-40d1-9fed-e7b93b855131" />
+
 
 
 ### SERVER OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64fa6ee7-539f-4ee5-87e2-65aa88c4248d" />
+<img width="700" height="924" alt="image" src="https://github.com/user-attachments/assets/24e7ceba-6b71-45f1-88e9-b1ecfae3733c" />
+
 
 ## RESULT:
 The program is executed succesfully
